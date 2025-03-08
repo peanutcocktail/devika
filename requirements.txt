@@ -30,4 +30,5 @@ duckduckgo-search
 orjson
 gevent
 gevent-websocket
+curl_cffi
 numpy==1.25.2
